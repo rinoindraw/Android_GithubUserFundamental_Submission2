@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="search_hint">Enter a Github\'s username</string>
+    <string name="user_not_found">User not found please search\n for another username.</string>
+    <string name="search_guide">You can search a Github\'s username\n in the action bar search icon.</string>
+    <string name="content_description">User Avatar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="repository">%d\n Repository</string>
+    <string name="gist">%d\n gist</string>
+    <string name="following">%d\n Following</string>
+    <string name="follower">%d\n Followers</string>
+    <string name="location_placeholder">Location</string>
+    <string name="website_placeholder">Website</string>
+    <string name="company_placeholder">Company Name</string>
+    <string name="name_placeholder">Nama</string>
+    <string name="username_placeholder">Username</string>
+    <string name="favorite_button">FavoriteButton</string>
+    <string name="favoriteuser">Favorite User</string>
+    <string name="favorite_tittle">Favorite User</string>
+
+    <string name="added_favorite">User Has Been Favorited.</string>
+    <string name="deleted_favorite">User Has Been Deleted.</string>
+
+    <string name="theme_setting">Theme Setting</string>
+    <string name="icon_bulan">Ikon Bulan</string>
+    <string name="icon_matahari">Ikon Matahari</string>
+    <string name="search_text">Search</string>
+    <string name="button_search">Button Search</string>
+    <string name="titlebar_content">Titlebar</string>
+    <string name="image_user_content">Image User</string>
+</resources>
